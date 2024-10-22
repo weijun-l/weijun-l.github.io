@@ -73,8 +73,7 @@ redirect_from:
 ## Awards and Honours
 
 <ul class="cv-list">
-  <li>[2023] Dean’s Honour List, The University of Melbourne</li>
-  <!-- <li>Research Excellence Scholarship, Macquarie University, 2024</li> -->
+  <li>[2023] <strong>Dean’s Honour List, The University of Melbourne</strong></li>
 </ul>
 
 <!-- ## Grants
