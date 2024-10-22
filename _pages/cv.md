@@ -63,19 +63,22 @@ redirect_from:
 ## Employment History
 
 <ul class="cv-list">
-  <li>Research Assistant, Macquarie University, 2024</li>
-  <li>Teaching Assistant, XXX Course, Macquarie University, 2024</li>
+  <li>[2016-2021] <strong>Vehicle Seat System Design Engineer</strong>
+    <ul>
+      <li>Dongfeng-Nissan Passenger Vehicle Company, Guangzhou, China</li>
+    </ul>
+  </li>
 </ul>
 
 ## Awards and Honours
 
 <ul class="cv-list">
-  <li>Best Paper Award, Conference XXX, 2024</li>
-  <li>Research Excellence Scholarship, Macquarie University, 2024</li>
+  <li>[2023] Dean’s Honour List, The University of Melbourne</li>
+  <!-- <li>Research Excellence Scholarship, Macquarie University, 2024</li> -->
 </ul>
 
-## Grants
+<!-- ## Grants
 
 <ul class="cv-list">
   <li>Research Grant, Project Name, $XXX, 2024</li>
-</ul>
+</ul> -->
