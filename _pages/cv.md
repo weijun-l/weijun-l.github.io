@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ redirect_from:
 }
 </style>
 
-<div class="cv-header">Curriculum Vitae</div>
+<!-- <div class="cv-header">Curriculum Vitae</div> -->
 
 ## Education
 
