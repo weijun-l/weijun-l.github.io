@@ -73,7 +73,7 @@ redirect_from:
 ## Awards and Honours
 
 <ul class="cv-list">
-  <li>[2023] <strong>Dean’s Honour List, The University of Melbourne</strong></li>
+  <li>[2023] <strong>Dean’s Honour List</strong>, The University of Melbourne</li>
 </ul>
 
 <!-- ## Grants
