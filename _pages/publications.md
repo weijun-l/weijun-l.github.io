@@ -7,9 +7,19 @@ author_profile: true
 
 <style>
 .publications li {
-  margin-bottom: 1em; 
+  margin-bottom: 1em;
+  list-style-type: disc;
+  margin-left: 1em;
+}
+
+.page-header {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  color: #333;
 }
 </style>
+
+<div class="page-header">Publications</div>
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>

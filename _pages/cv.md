@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<style>
+.cv-list li {
+  margin-bottom: 1em;
+  list-style-type: disc;
+  margin-left: 1em;
+}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+.cv-header {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  color: #333;
+}
+</style>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="cv-header">Curriculum Vitae</div>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<ul class="cv-list">
+  <li>Master of Research (MRes), Macquarie University, 2024 (expected)</li>
+  <li>Bachelor of Science, University of XXX, 2023</li>
+</ul>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Employment History
+
+<ul class="cv-list">
+  <li>Research Assistant, Macquarie University, 2024</li>
+  <li>Teaching Assistant, XXX Course, Macquarie University, 2024</li>
+</ul>
+
+## Awards and Honours
+
+<ul class="cv-list">
+  <li>Best Paper Award, Conference XXX, 2024</li>
+  <li>Research Excellence Scholarship, Macquarie University, 2024</li>
+</ul>
+
+## Grants
+
+<ul class="cv-list">
+  <li>Research Grant, Project Name, $XXX, 2024</li>
+</ul>
