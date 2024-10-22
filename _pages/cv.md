@@ -11,23 +11,53 @@ redirect_from:
 .cv-list li {
   margin-bottom: 1em;
   list-style-type: disc;
-  margin-left: 1em;
+  margin-left: 0.3em;  
+}
+
+.cv-list li ul {
+  margin-top: 0.3em;
+  margin-left: 0.1em; 
+}
+
+.cv-list li ul li {
+  margin-bottom: 0.2em;
+  list-style-type: circle;
+  color: #666;
+  font-size: 0.95em;
 }
 
 .cv-header {
   font-size: 1.2em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   color: #333;
 }
 </style>
 
-<!-- <div class="cv-header">Curriculum Vitae</div> -->
-
 ## Education
 
 <ul class="cv-list">
-  <li>Master of Research (MRes), Macquarie University, 2024 (expected)</li>
-  <li>Bachelor of Science, University of XXX, 2023</li>
+  <li>[2024] <strong>Master of Research (Computing)</strong>
+    <ul>
+      <li>Macquarie University</li>
+      <li>Supervisors: Prof. Mark Dras and Dr. Qiongkai Xu</li>
+    </ul>
+  </li>
+  <li>[2023] <strong>Master of Information Technology</strong>
+    <ul>
+      <li>The University of Melbourne</li>
+      <li>First Class Honours</li>
+    </ul>
+  </li>
+  <li>[2016] <strong>Master of Control Engineering</strong>
+    <ul>
+      <li>Chongqing University</li>
+    </ul>
+  </li>
+  <li>[2013] <strong>Bachelor of Mechanical Engineering</strong>
+    <ul>
+      <li>Chongqing University</li>
+    </ul>
+  </li>
 </ul>
 
 ## Employment History
