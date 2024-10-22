@@ -14,7 +14,7 @@ name                     : &name "Weijun"
 description              : &description "Master of Research Student"
 url                      : https://weijun-l.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weijun-l/weijun-l.github.io/"
+repository               : "weijun-l/weijun-l.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
