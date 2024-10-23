@@ -16,28 +16,4 @@ redirect_from:
   - /about.html
 --- -->
 
-Placeholder.
-
-Research
-======
-Placeholder.
-
-Background
-======
-Placeholder.
-
-Site-wide configuration
-------
-Placeholder.
-
-Create content & metadata
-------
-Placeholder.
-
-**Markdown generator**
-
-Placeholder.
-
-Remark
-------
-Placeholder.
+Hello! I am a Master of Research Student in the <a href="https://www.mq.edu.au/faculty-of-science-and-engineering/departments-and-schools/school-of-computing">School of Computing</a> at <a href="https://www.mq.edu.au/">Macquarie University</a>, and my primary research interest lies in addressing privacy and security threats to NLP models and their applications.
