@@ -73,7 +73,11 @@ redirect_from:
 ## Awards and Honours
 
 <ul class="cv-list">
-  <li>[2023] <strong>Dean’s Honour List</strong>, The University of Melbourne</li>
+  <li>[2024] <strong>HDR Research Rising Star Award</strong>, School of Computing, The University of Melbourne</li>
+</ul>
+
+<ul class="cv-list">
+  <li>[2023] <strong><a href="https://eng.unimelb.edu.au/students/scholarships-prizes-and-awards/sap/deans-honours-award#2023">Dean’s Honour List</a></strong>, FEIT, The University of Melbourne</li>
 </ul>
 
 <!-- ## Grants
