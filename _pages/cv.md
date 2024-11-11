@@ -73,7 +73,7 @@ redirect_from:
 ## Awards and Honours
 
 <ul class="cv-list">
-  <li>[2024] <strong>HDR Research Rising Star Award</strong>, School of Computing, The University of Melbourne</li>
+  <li>[2024] <strong>HDR Research Rising Star Award</strong>, School of Computing, Macquarie University</li>
 </ul>
 
 <ul class="cv-list">
