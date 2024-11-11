@@ -63,7 +63,15 @@ redirect_from:
 ## Employment History
 
 <ul class="cv-list">
-  <li>[2016-2021] <strong>Vehicle Seat System Design Engineer</strong>
+  <li>[2024.11-Present] <strong>Research Assistant</strong>
+    <ul>
+      <li>Macquarie University, Sydney, Australia</li>
+    </ul>
+  </li>
+</ul>
+
+<ul class="cv-list">
+  <li>[2016.07-2021.12] <strong>Automotive R&D Engineer</strong>
     <ul>
       <li>Dongfeng-Nissan Passenger Vehicle Company, Guangzhou, China</li>
     </ul>
