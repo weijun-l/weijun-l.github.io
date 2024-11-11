@@ -28,5 +28,5 @@ author_profile: true
 ## 2024
 
 <ul class="publications">
-  <li>Weijun Li, Qiongkai Xu, and Mark Dras (2024). <a href="https://arxiv.org/abs/2406.00999">Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients</a>. In <i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</i>, Miami, USA. [<a href="https://github.com/weijun-l/partial-gradients-leakage">code</a>]</li>
+  <li>Weijun Li, Qiongkai Xu, and Mark Dras. 2024. <a href="https://aclanthology.org/2024.emnlp-main.275/">Seeing the Forest through the Trees: Data Leakage from Partial Transformer Gradients. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 4786–4798, Miami, Florida, USA. Association for Computational Linguistics. [<a href="https://github.com/weijun-l/partial-gradients-leakage">code</a>]</li>
 </ul>
