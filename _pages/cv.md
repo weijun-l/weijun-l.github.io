@@ -39,7 +39,7 @@ redirect_from:
   <li>[2024] <strong>Master of Research (Computing)</strong>
     <ul>
       <li>Macquarie University</li>
-      <li>Supervisors: Prof. Mark Dras and Dr. Qiongkai Xu</li>
+      <li>Supervisors: <a href="https://mark-dras.github.io/">Prof. Mark Dras</a> and <a href="https://xuqiongkai.github.io/">Dr. Qiongkai Xu</a></li>
     </ul>
   </li>
   <li>[2023] <strong>Master of Information Technology</strong>
