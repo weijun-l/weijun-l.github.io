@@ -36,7 +36,7 @@ redirect_from:
 ## Education
 
 <ul class="cv-list">
-  <li>[2025-] <strong>PhD Student in Computer Science</strong>
+  <li>[2025 - Present] <strong>PhD Student in Computer Science</strong>
     <ul>
       <li>Macquarie University</li>
       <li>Supervisors: <a href="https://mark-dras.github.io/">Prof. Mark Dras</a> and <a href="https://xuqiongkai.github.io/">Dr. Qiongkai Xu</a></li>
