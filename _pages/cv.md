@@ -68,7 +68,7 @@ redirect_from:
 ## Employment History
 
 <ul class="cv-list">
-  <li>[2024.11-Present] <strong>Research Assistant</strong>
+  <li>[2024.11-2025.02] <strong>Research Assistant</strong>
     <ul>
       <li>Macquarie University, Sydney, Australia</li>
     </ul>
