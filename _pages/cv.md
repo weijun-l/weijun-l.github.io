@@ -88,7 +88,7 @@ redirect_from:
 <ul class="cv-list">
   <li>[2025 Semester 1] <strong>Teaching Associate</strong>
     <ul>
-      <li><a href="https://unitguides.mq.edu.au/unit_offerings/166484/unit_guide">COMP8420 Advanced Natural Language Processing</a></li>
+      <li><a href="https://unitguides.mq.edu.au/unit_offerings/171627/unit_guide">COMP8420 Advanced Natural Language Processing</a></li>
       <li>Macquarie University, Sydney, Australia</li>
     </ul>
   </li>
