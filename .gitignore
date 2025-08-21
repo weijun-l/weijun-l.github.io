@@ -1,13 +1,30 @@
-# Ignore the contents of the _site directory and other cache directories
+# Jekyll build files
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
-# Ignore the directory for local files during development
+# Local development
 local/
+.bundle/
+vendor/
 
-# Ignore the Gemfile that is generated
-Gemfile.lock
-
-# Ingore files created by npm
-node_modules
+# Dependencies
+node_modules/
 package-lock.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*~
+*.swp
+*.swo

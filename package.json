@@ -1,25 +1,22 @@
 {
-  "name": "academic-pages",
-  "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "name": "weijun-li-homepage",
+  "version": "1.0.0",
+  "description": "Weijun Li's academic homepage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/weijun-l/weijun-l.github.io"
   },
   "keywords": [
     "jekyll",
-    "theme",
-    "minimal"
+    "academic",
+    "homepage"
   ],
-  "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
-  ],
+  "author": "Weijun Li",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/weijun-l/weijun-l.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://weijun-l.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
