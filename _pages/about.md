@@ -29,6 +29,7 @@ Beyond these areas, I am keen to explore advanced and emerging topics in privacy
 
 ## Latest News
 
+* **[Oct 2025]** Our paper "Securing Off-the-Shelf LLMs against Backdoor Attacks" has been accepted for presentation at <a href="https://alta2025.alta.asn.au/">ALTA 2025</a>. Looking forward to seeing you in Sydney in November!
 * **[Sep 2025]** I am admitted to attend <a href="https://www.mlss-melbourne.com/">Machine Learning Summer School (MLSS) Melbourne 2026</a>. Looking forward to seeing you in Melbourne in February!
 * **[Sep 2025]** Our competition proposal on <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a> has been accepted by <a href="https://satml.org/competitions/">IEEE SaTML 2026</a>.
 * **[Aug 2025]** Our paper <a href="https://arxiv.org/abs/2412.20476">Cut the Deadwood Out: Backdoor Purification via Guided Module Substitution</a> has been accepted to Findings of EMNLP 2025.

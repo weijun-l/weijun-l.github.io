@@ -45,6 +45,7 @@ redirect_from:
   <li>[2024] <strong>Master of Research (Computing)</strong>
     <ul>
       <li>Macquarie University</li>
+      <li>Thesis awarded High Distinction (93/100)</li>
     </ul>
   </li>
   <li>[2023] <strong>Master of Information Technology</strong>
