@@ -25,4 +25,9 @@ I approach these challenges from two directions:
 
 Beyond these areas, I am keen to explore advanced and emerging topics in privacy and security, and I welcome opportunities for collaboration on related challenges.
 
-I completed a Master of Research at <a href="https://www.mq.edu.au/">Macquarie University</a> in 2024, where I received a thesis score of 93 (High Distinction), leading to my admission into the PhD program with a full scholarship. Before that, I earned an M.S. in Information Technology with Distinction from <a href="https://www.unimelb.edu.au/">The University of Melbourne</a> in 2023, an M.S. in Control Engineering in 2016, and a B.A. in Mechanical Engineering in 2013, both from <a href="https://www.cqu.edu.cn/">Chongqing University</a>.
+<!-- I completed a Master of Research at <a href="https://www.mq.edu.au/">Macquarie University</a> in 2024, where I received a thesis score of 93 (High Distinction), leading to my admission into the PhD program with a full scholarship. Before that, I earned an M.S. in Information Technology with Distinction from <a href="https://www.unimelb.edu.au/">The University of Melbourne</a> in 2023, an M.S. in Control Engineering in 2016, and a B.A. in Mechanical Engineering in 2013, both from <a href="https://www.cqu.edu.cn/">Chongqing University</a>. -->
+
+## Latest News
+
+* **[Sep 2025]** Our competition proposal on <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a> has been accepted by <a href="https://satml.org/competitions/">IEEE SaTML 2026</a>.
+* **[Aug 2025]** Our paper <a href="https://arxiv.org/abs/2412.20476">Cut the Deadwood Out: Backdoor Purification via Guided Module Substitution</a> has been accepted to Findings of EMNLP 2025.
