@@ -29,6 +29,7 @@ Beyond these areas, I am keen to explore advanced and emerging topics in privacy
 
 ## Latest News
 
+* **[Mar 2026]** I will be attending <a href="https://satml.org/">IEEE SaTML 2026</a> in Munich, Germany (March 23-25) to present our <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a>. Excited to share our work and looking forward to seeing you there!
 * **[Jan 2026]** Our paper <a href="https://openreview.net/forum?id=ieCOL2YAqv">Defending against Backdoor Attacks via Module Switching</a> has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>! Looking forward to seeing you in Rio de Janeiro, Brazil in April!
 * **[Oct 2025]** Our paper "Securing Off-the-Shelf LLMs against Backdoor Attacks" has been accepted for presentation at <a href="https://alta2025.alta.asn.au/">ALTA 2025</a>. Looking forward to seeing you in Sydney in November!
 * **[Sep 2025]** I am admitted to attend <a href="https://www.mlss-melbourne.com/">Machine Learning Summer School (MLSS) Melbourne 2026</a>. Looking forward to seeing you in Melbourne in February!
