@@ -29,7 +29,7 @@ author_profile: true
   *Equal contribution &nbsp;&nbsp; ✉Corresponding author
 </div>
 
-## To appear
+## 2026
 
 <ul class="publications">
   <li>Weijun Li, Ansh Arora, Xuanli He, Mark Dras, and Qiongkai Xu. 2026. <a href="https://openreview.net/forum?id=ieCOL2YAqv">Defending against Backdoor Attacks via Module Switching.</a> In The Fourteenth International Conference on Learning Representations (ICLR 2026).</li>
