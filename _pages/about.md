@@ -29,7 +29,7 @@ Beyond these areas, I am keen to explore advanced and emerging topics in privacy
 
 ## Latest News
 
-* **[Mar 2026]** I am delighted to be visiting the <a href="https://vbn.aau.dk/en/organisations/institut-for-datalogi/">Department of Computer Science</a> at Aalborg University in Copenhagen, Denmark for one month (starting March 27). Many thanks to Prof. <a href="https://vbn.aau.dk/en/persons/jbjerva/">Johannes Bjerva</a> for hosting me in his research group!
+* **[Mar 2026]** I am delighted to be visiting the <a href="https://vbn.aau.dk/en/organisations/institut-for-datalogi/">Department of Computer Science</a> at Aalborg University in Copenhagen, Denmark for one month (starting March 27). Many thanks to <a href="https://vbn.aau.dk/en/persons/jbjerva/">Prof. Johannes Bjerva</a> for hosting me in his research group!
 * **[Mar 2026]** I will be attending <a href="https://satml.org/">IEEE SaTML 2026</a> in Munich, Germany (March 23-25) to present our <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a>. Excited to share our work and looking forward to seeing you there!
 * **[Jan 2026]** Our paper <a href="https://openreview.net/forum?id=ieCOL2YAqv">Defending against Backdoor Attacks via Module Switching</a> has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>! Looking forward to seeing you in Rio de Janeiro, Brazil in April!
 * **[Oct 2025]** Our paper "Securing Off-the-Shelf LLMs against Backdoor Attacks" has been accepted for presentation at <a href="https://alta2025.alta.asn.au/">ALTA 2025</a>. Looking forward to seeing you in Sydney in November!
