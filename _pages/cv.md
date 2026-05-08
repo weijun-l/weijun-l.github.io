@@ -98,6 +98,10 @@ redirect_from:
 ## Awards and Honours
 
 <ul class="cv-list">
+  <li>[2025] <strong>Executive Dean's Commendation for Academic Excellence</strong>, Master of Research, Macquarie University</li>
+</ul>
+
+<ul class="cv-list">
   <li>[2024] <strong>HDR Research Rising Star Award</strong>, School of Computing, Macquarie University</li>
 </ul>
 
