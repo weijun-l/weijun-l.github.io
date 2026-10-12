@@ -32,6 +32,7 @@ author_profile: true
 ## 2026
 
 <ul class="publications">
+  <li>Tuong Phuc Ngo, Sajjad Nakhwa, Weijun Li, Anudeex Shetty, and Qiongkai Xu. 2026. <a href="https://link.springer.com/chapter/10.1007/978-3-032-37685-5_17">AISecurityPulse: Automating Security Issue Reports for AI Models.</a> In Machine Learning and Knowledge Discovery in Databases: Applied Data Science Track, Demo Track and Industrial Track (ECML PKDD 2026), pages 278–282. Springer Nature Switzerland. [<a href="https://ndstab.github.io/aisecuritypulse/">demo</a>]</li>
   <li>Weijun Li, Ansh Arora, Xuanli He, Mark Dras, and Qiongkai Xu. 2026. <a href="https://openreview.net/forum?id=ieCOL2YAqv">Defending against Backdoor Attacks via Module Switching.</a> In The Fourteenth International Conference on Learning Representations (ICLR 2026). [<a href="https://github.com/weijun-l/module-switching-defense">code</a>]</li>
 </ul>
 
