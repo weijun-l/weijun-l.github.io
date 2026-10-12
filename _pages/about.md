@@ -29,6 +29,8 @@ Beyond these areas, I am keen to explore advanced and emerging topics in privacy
 
 ## Latest News
 
+* **[Oct 2026]** I was recognized as a <strong>Top Reviewer for <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a></strong>. I will be attending the conference in Sydney this December and look forward to meeting the community there!
+* **[Sep 2026]** I am pleased to have been awarded funding through the <a href="https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding">Macquarie University Postgraduate Research Fund (PGRF)</a> to support my research activities in 2027.
 * **[Mar 2026]** I am delighted to be visiting <a href="https://vbn.aau.dk/en/">Aalborg University Copenhagen</a> for one month (starting March 27). Many thanks to <a href="https://vbn.aau.dk/en/persons/jbjerva/">Prof. Johannes Bjerva</a> for hosting me in his research group!
 * **[Mar 2026]** I will be attending <a href="https://satml.org/">IEEE SaTML 2026</a> in Munich, Germany (March 23-25) to present our <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a>. Excited to share our work and looking forward to seeing you there!
 * **[Jan 2026]** Our paper <a href="https://openreview.net/forum?id=ieCOL2YAqv">Defending against Backdoor Attacks via Module Switching</a> has been accepted to <a href="https://iclr.cc/">ICLR 2026</a>! Looking forward to seeing you in Rio de Janeiro, Brazil in April!

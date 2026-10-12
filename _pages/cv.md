@@ -95,7 +95,41 @@ redirect_from:
   </li>
 </ul>
 
+## Academic Leadership & Service
+
+<ul class="cv-list">
+  <li>[2026] <strong>Main Reviewer, <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a></strong>
+    <ul>
+      <li>Recognized as a <strong>Top Reviewer</strong></li>
+    </ul>
+  </li>
+  <li>[2025 - Present] <strong>Reviewer, ACL Rolling Review (ARR)</strong>
+    <ul>
+      <li>Reviewing submissions in every ARR cycle since 2025, including for ACL, EMNLP, and related venues</li>
+    </ul>
+  </li>
+  <li>[2025 - 2026] <strong>Organizer, <a href="https://anti-bad.github.io/">Anti-BAD Challenge</a></strong>
+    <ul>
+      <li>Organized an anti-backdoor challenge for post-trained large language models and presented it at IEEE SaTML 2026</li>
+    </ul>
+  </li>
+</ul>
+
+## Research Funding
+
+<ul class="cv-list">
+  <li>[2027] <strong><a href="https://students.mq.edu.au/study/graduateresearch/tools-support/grants-and-funding">Macquarie University Postgraduate Research Fund (PGRF)</a></strong>
+    <ul>
+      <li>Awarded in September 2026 to support research activities in 2027</li>
+    </ul>
+  </li>
+</ul>
+
 ## Awards and Honours
+
+<ul class="cv-list">
+  <li>[2026] <strong>Top Reviewer</strong>, NeurIPS 2026</li>
+</ul>
 
 <ul class="cv-list">
   <li>[2025] <strong>Executive Dean's Commendation for Academic Excellence</strong>, Master of Research, Macquarie University</li>
